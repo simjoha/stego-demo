@@ -6,7 +6,7 @@ import (
 	"image/png"
 	"log"
 	"os"
-	"simjoha/stego-demo/stego"
+	"github.com/simjoha/stego-demo/stego"
 )
 
 const BUFSIZE = 4096
