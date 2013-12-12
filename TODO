@@ -1,0 +1,8 @@
+-- TODO --
+* Add comments and documentation.
+* Improve error handling.
+* Add support for other color models.
+* Add support for other image formats.
+* Do something about the awkward coupling between imageReader and imageWriter.
+* Add support for encrypting the stego payload.
+* Make it more suitable for shell scripts.
